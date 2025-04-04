@@ -12,3 +12,8 @@ While PioReactors are excelent for small scale experiments, it is unable to acco
 The FlavorReactor consists of a continuous flow circuit between a PioReactor and a 500mL bioreactor. The PioReactor measures growth rate using its inbuilt optical sensors while the 500mL reactor gathers other data such as pH, CO2 concentration, and O2 concentration.
 
 ![alt text](https://forum.pioreactor.com/uploads/default/original/1X/b2822caacbb4b494d78158d04e59fe67260c709f.jpeg)
+
+## Future Work
+1. Transfer all FlavorReactor documentation to this GitHub page.
+2. Improve the documentation to make using building and using the FlavorReactor as seamless as possible.
+3. Create plugins
