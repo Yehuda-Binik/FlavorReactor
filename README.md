@@ -16,4 +16,4 @@ The FlavorReactor consists of a continuous flow circuit between a PioReactor and
 ## Future Work
 1. Transfer all FlavorReactor documentation to this GitHub page.
 2. Improve the documentation to make using building and using the FlavorReactor as seamless as possible.
-3. Create plugins
+3. Create plugins for the various sensors so that the setup only requires downloading them—no coding necessary.
